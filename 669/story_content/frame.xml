@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="p03_april_09" />
+              <option name="title_text" value="Let&amp;#39;s Sleep" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1565,6 +1565,8 @@
             <slidelink slideid="_player.5YXDF10t8c9.6TV3jHQFLXs" displaytext="START" expand="false" type="slide" />
             <slidelink slideid="_player.5YXDF10t8c9.62a0XlekhMr" displaytext="INTRO 1" expand="false" type="slide" />
             <slidelink slideid="_player.5YXDF10t8c9.5qd4vsFe7Uo" displaytext="INTRO 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5YXDF10t8c9.6cxGSIixaHI" displaytext="INTRO 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5YXDF10t8c9.605egn5HCxK" displaytext="INTRO 4" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6QNHyFSqetq" displaytext="Tutorial" expand="true" type="slide">
