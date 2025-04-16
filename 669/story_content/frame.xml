@@ -20,7 +20,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Let&amp;#39;s Sleep! (APR 14)" />
+              <option name="title_text" value="Let&amp;#39;s Sleep! (APR 16)" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1636,6 +1636,7 @@
       <string id="closed_captions">Captions</string>
       <string id="closedcaptions_shortcut">Toggle captions</string>
       <string id="comma_key">Comma</string>
+      <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="desktop_start">Start Course</string>
@@ -1726,7 +1727,6 @@
       <string id="video_transcript_select_track">Select track</string>
       <string id="video_transcript_title">Transcripts</string>
       <string id="zoom_to_fit">Zoom to fit</string>
-      <string id="continue">Continue</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1755,8 +1755,10 @@
         </slidelink>
         <slidelink slideid="_player.6QNHyFSqetq" displaytext="Tutorial" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6QNHyFSqetq.6UzuNtfncHR" displaytext="TUTORIAL HUB" expand="false" type="slide" />
-            <slidelink slideid="_player.6QNHyFSqetq.6dQnwtCPlbB" displaytext="TUTORIAL BEDROOM" expand="false" type="slide" />
+            <slidelink slideid="_player.6QNHyFSqetq.6UzuNtfncHR" displaytext="TUTORIAL HUB 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6QNHyFSqetq.6dQnwtCPlbB" displaytext="TUTORIAL BEDROOM 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6QNHyFSqetq.6itxlSe3otg" displaytext="TUTORIAL BEDROOM 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6QNHyFSqetq.6pEakt1ZGOa" displaytext="TUTORIAL BEDROOM 3" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6nPQiTNGF01" displaytext="Main" expand="true" type="slide">
@@ -1833,6 +1835,7 @@
           <links>
             <slidelink slideid="_player.6fbPZGbb1Ex.5ryA7trGJAR" displaytext="Bed" expand="false" type="slide" />
             <slidelink slideid="_player.6QNHyFSqetq.5obLHwBa09Y" displaytext="TUTORIAL BED" expand="false" type="slide" />
+            <slidelink slideid="_player.6QNHyFSqetq.6mjHdmsjcfU" displaytext="TUTORIAL HUB 2" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6VsETJUf4Xc" displaytext="Thermostat" expand="true" type="slide">
@@ -1890,17 +1893,21 @@
         <slidelink slideid="" displaytext="Aux" expand="true" type="slide" />
         <slidelink slideid="_player.5oj6XkIZwmf" displaytext="Filing Cabinet" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5oj6XkIZwmf.6b0ErQMj1pV" displaytext="FILING CABINET" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.6b0ErQMj1pV" displaytext="Accept Challenge" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.6OhC9oNR2LL" displaytext="Profile" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.5vtTlSQJZI4" displaytext="R 01_Solved" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.6KK0MtwwIfD" displaytext="R 02_Solved" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.5n06HFiEWT8" displaytext="R 03_Solved" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.5sL39ltGLHo" displaytext="R 01" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.6TpvbwqFJUE" displaytext="R 02" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.68Z8926wTaI" displaytext="R 03" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.5pxLzpdRwPJ" displaytext="R 04" expand="false" type="slide" />
+            <slidelink slideid="_player.5oj6XkIZwmf.6etYhXftXeD" displaytext="Finish assessment" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5cPRJLgqxh4" displaytext="Sleep Diary" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5cPRJLgqxh4.6oeAGU6UzM7" displaytext="SLEEP DIARY" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5zzSj4y1xBb" displaytext="Checklist" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5zzSj4y1xBb.6Jb3PKTqe8a" displaytext="CHECKLIST" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
